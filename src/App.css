@@ -1,0 +1,43 @@
+nav.navbar.navbar-expand-lg.navbar-light {
+  background: orange;
+}
+img.card-img-top.Circle {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  margin: 0 auto;
+}
+.sec-item .card {
+  width: 30%;
+  float: left;
+  margin-left: 2%;
+  margin-top: 20px;
+}
+.searchForm input,
+.searchForm buttton {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+}
+.alert-light {
+  text-align: center;
+}
+nav a {
+  padding-left: 20px;
+  color: black;
+  font-weight: 500;
+}
+
+.card {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.badge {
+  padding: 10px;
+  margin-top: 20px;
+}
+.navbar-expand-lg .navbar-nav {
+  flex-direction: row;
+}
